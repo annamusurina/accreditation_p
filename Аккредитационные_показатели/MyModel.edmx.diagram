@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="748bf1e045fd417e8e3bd92a1836533c" Name="Diagram1">
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.AcademicLoad" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.Admission_student" Width="1.5" PointX="1.5" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.As_teacher_pract" Width="1.5" PointX="3" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.DirectionTraining" Width="1.5" PointX="1.5" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.Disciplines" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.EducationLevels" Width="1.5" PointX="1.5" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.Management_Master_degree_program" Width="1.5" PointX="3" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.Practitioners" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Аккредитационные_показателиModel.Teacher" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <AssociationConnector Association="Аккредитационные_показателиModel.FK__AcademicL__Code___3A81B327" ManuallyRouted="false" />
+        <AssociationConnector Association="Аккредитационные_показателиModel.FK__AcademicL__Code___3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="Аккредитационные_показателиModel.FK__Admission__Code___34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="Аккредитационные_показателиModel.FK__Disciplin__Code___37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="Аккредитационные_показателиModel.FK__As_teache__Code___29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="Аккредитационные_показателиModel.FK__As_teache__Code___2A4B4B5E" ManuallyRouted="false" />
+        <AssociationConnector Association="Аккредитационные_показателиModel.FK__Direction__Code___31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="Аккредитационные_показателиModel.FK__Managemen__Code___2D27B809" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
